@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
+		"name": "pool.verus.io",
         	"url": "stratum+tcp://us.cloudiko.io:9999",
 		"timeout": 150
 	}
